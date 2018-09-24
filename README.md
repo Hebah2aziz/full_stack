@@ -2,10 +2,12 @@ Movies trailer
 this folder for display movies trailer by using class fresh tomatoes.
 
 Requirements for run this project:
+
 1-install python 2.7.
 2-web browser installed.
 
 what project contain:
+
 1-intertainment-center: here you can creat a new object for more movies 
 exmples :
 toystory = media.Movies("toystory",
@@ -18,6 +20,7 @@ toystory = media.Movies("toystory",
 
 
 How to run project using termial:
+
 1-open the file name (intertainment-center).
 it will open web browse show movies trailer of your favirate movies.
 
