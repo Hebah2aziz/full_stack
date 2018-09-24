@@ -12,6 +12,7 @@ this folder for display movies trailer by using class fresh tomatoes.
 
 1-intertainment-center: here you can creat a new object for more movies 
 #exmples :
+
 `toystory = media.Movies("toystory",
                         "the boy and his toys come a live",
                         "https://goo.gl/j7nkk9",
