@@ -15,13 +15,15 @@ toystory = media.Movies("toystory",
                         "https://goo.gl/j7nkk9",
                         "https://www.youtube.com/watch?v=rNk1Wi8SvNc")
                         
-2-fresh-tomatoes :  for styles and scripting for the page . 
+2-fresh-tomatoes :  for styles and scripting for the page .
+
 3-media:create a class for movies properties.
 
 
 How to run project using termial:
 
 1-open the file name (intertainment-center).
+
 it will open web browse show movies trailer of your favirate movies.
 
                         
