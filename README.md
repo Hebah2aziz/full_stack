@@ -12,10 +12,10 @@ this folder for display movies trailer by using class fresh tomatoes.
 
 1-intertainment-center: here you can creat a new object for more movies 
 #exmples :
-toystory = media.Movies("toystory",
+`toystory = media.Movies("toystory",
                         "the boy and his toys come a live",
                         "https://goo.gl/j7nkk9",
-                        "https://www.youtube.com/watch?v=rNk1Wi8SvNc")
+                        "https://www.youtube.com/watch?v=rNk1Wi8SvNc")`
                         
 2-fresh-tomatoes :  for styles and scripting for the page .
 
